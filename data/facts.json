@@ -1,0 +1,605 @@
+[
+{
+"id": 1,
+"title": "Pluto is the Ninth Planet",
+"originalTeaching": "Pluto was classified as the ninth planet in our solar system.",
+"yearTaught": "1930-2006",
+"yearDisproven": 2006,
+"explanation": "Pluto was reclassified as a 'dwarf planet' by the International Astronomical Union in 2006.",
+"category": "Astronomy"
+},
+{
+"id": 2,
+"title": "Humans Only Use 10% of Their Brain",
+"originalTeaching": "The human brain is only using 10% of its capacity at any given time.",
+"yearTaught": "1900-2010",
+"yearDisproven": 2010,
+"explanation": "Brain imaging studies show that we use virtually every part of the brain, and most of the brain is active almost all the time.",
+"category": "Neuroscience"
+},
+{
+"id": 3,
+"title": "Columbus Discovered America",
+"originalTeaching": "Christopher Columbus discovered America in 1492.",
+"yearTaught": "1492-Present",
+"yearDisproven": 1960,
+"explanation": "Indigenous peoples lived in the Americas for thousands of years before Columbus, and Norse explorers reached North America around 1000 AD.",
+"category": "History"
+},
+{
+"id": 4,
+"title": "Dinosaurs Are Extinct",
+"originalTeaching": "All dinosaurs died out 65 million years ago.",
+"yearTaught": "1840-1990",
+"yearDisproven": 1990,
+"explanation": "Birds are descendants of theropod dinosaurs, meaning dinosaurs are not entirely extinct.",
+"category": "Paleontology"
+},
+{
+"id": 5,
+"title": "Dinosaurs Looked Like Big Lizards",
+"originalTeaching": "Dinosaurs were scaly reptiles resembling large lizards.",
+"yearTaught": "1800-1996",
+"yearDisproven": 1996,
+"explanation": "Many dinosaurs had feathers and were colorful, as evidenced by fossils like Sinosauropteryx.",
+"category": "Paleontology"
+},
+{
+"id": 6,
+"title": "Brontosaurus Is Not a Dinosaur",
+"originalTeaching": "Brontosaurus is the same as Apatosaurus and not a valid name.",
+"yearTaught": "1903-2015",
+"yearDisproven": 2015,
+"explanation": "A 2015 study reinstated Brontosaurus as a distinct genus based on morphological differences.",
+"category": "Paleontology"
+},
+{
+"id": 7,
+"title": "George Washington Had Wooden Teeth",
+"originalTeaching": "George Washington's dentures were made of wood.",
+"yearTaught": "1780-Present",
+"yearDisproven": 1900,
+"explanation": "His dentures were made from ivory, gold, lead, and human or animal teeth; the wood myth arose from stained ivory.",
+"category": "History"
+},
+{
+"id": 8,
+"title": "Salem Witches Were Burned at the Stake",
+"originalTeaching": "Women accused of witchcraft in Salem were burned at the stake.",
+"yearTaught": "1692-Present",
+"yearDisproven": 1900,
+"explanation": "Nineteen were hanged and one was crushed; no one was burned, following English law.",
+"category": "History"
+},
+{
+"id": 9,
+"title": "There Are Three States of Matter",
+"originalTeaching": "Matter exists in three states: solid, liquid, and gas.",
+"yearTaught": "Ancient-1879",
+"yearDisproven": 1879,
+"explanation": "Plasma was discovered as the fourth state of matter by Sir William Crookes in 1879.",
+"category": "Physics"
+},
+{
+"id": 10,
+"title": "Toilets Flush Opposite in the Southern Hemisphere",
+"originalTeaching": "Due to the Coriolis effect, toilets flush in the opposite direction in the Southern Hemisphere.",
+"yearTaught": "1900-1960",
+"yearDisproven": 1960,
+"explanation": "The Coriolis effect is too weak to influence toilet flushing; direction is determined by bowl design.",
+"category": "Physics"
+},
+{
+"id": 11,
+"title": "Neanderthals Were Less Intelligent Than Humans",
+"originalTeaching": "Neanderthals were inferior and less smart than modern humans.",
+"yearTaught": "1850-2014",
+"yearDisproven": 2014,
+"explanation": "Research shows Neanderthals were as intelligent, with evidence of art, tools, and jewelry.",
+"category": "Anthropology"
+},
+{
+"id": 12,
+"title": "People Are Left-Brained or Right-Brained",
+"originalTeaching": "Personality traits are determined by dominance of the left or right brain hemisphere.",
+"yearTaught": "1960-2013",
+"yearDisproven": 2013,
+"explanation": "A 2013 University of Utah study found no evidence for hemispheric dominance in personality.",
+"category": "Neuroscience"
+},
+{
+"id": 13,
+"title": "Blood Is Blue When Deoxygenated",
+"originalTeaching": "Deoxygenated blood is blue until it hits oxygen.",
+"yearTaught": "Unknown-Present",
+"yearDisproven": 2000,
+"explanation": "Blood is always red; veins appear blue due to how light penetrates the skin.",
+"category": "Biology"
+},
+{
+"id": 14,
+"title": "Napoleon Was Short",
+"originalTeaching": "Napoleon Bonaparte was unusually short for a man.",
+"yearTaught": "1803-Present",
+"yearDisproven": 1900,
+"explanation": "He was about 5 feet 7 inches, average for his time; the myth originated from British propaganda.",
+"category": "History"
+},
+{
+"id": 15,
+"title": "Humans Have Five Senses",
+"originalTeaching": "There are only five human senses: sight, hearing, taste, smell, and touch.",
+"yearTaught": "Ancient-1900",
+"yearDisproven": 1900,
+"explanation": "There are additional senses like proprioception, balance, and thermoception.",
+"category": "Biology"
+},
+{
+"id": 16,
+"title": "The Tongue Has a Taste Map",
+"originalTeaching": "Different parts of the tongue detect specific tastes like sweet or bitter.",
+"yearTaught": "1901-1974",
+"yearDisproven": 1974,
+"explanation": "All tastes can be detected across the entire tongue, as shown by Virginia Collins' study.",
+"category": "Biology"
+},
+{
+"id": 17,
+"title": "Swallowed Gum Takes 7 Years to Digest",
+"originalTeaching": "If you swallow gum, it stays in your stomach for seven years.",
+"yearTaught": "Unknown-2007",
+"yearDisproven": 2007,
+"explanation": "Gum passes through the digestive system in about a week, like other indigestible items.",
+"category": "Health"
+},
+{
+"id": 18,
+"title": "Hair and Nails Grow After Death",
+"originalTeaching": "Hair and fingernails continue to grow after a person dies.",
+"yearTaught": "Unknown-1900",
+"yearDisproven": 1900,
+"explanation": "They appear longer due to skin dehydration and shrinkage, not growth.",
+"category": "Biology"
+},
+{
+"id": 19,
+"title": "Thomas Edison Invented the Lightbulb",
+"originalTeaching": "Thomas Edison was the sole inventor of the incandescent lightbulb.",
+"yearTaught": "1880-2007",
+"yearDisproven": 2007,
+"explanation": "He improved existing designs; Humphry Davy created the first in 1802, Joseph Swan in 1860.",
+"category": "History"
+},
+{
+"id": 20,
+"title": "I Before E Except After C",
+"originalTeaching": "The spelling rule 'I before E except after C' always applies.",
+"yearTaught": "1866-1900",
+"yearDisproven": 1900,
+"explanation": "There are numerous exceptions like 'weird' and 'science,' making the rule unreliable.",
+"category": "Language"
+},
+{
+"id": 21,
+"title": "Great Wall Visible from Space",
+"originalTeaching": "The Great Wall of China is the only man-made structure visible from space.",
+"yearTaught": "1932-2003",
+"yearDisproven": 2003,
+"explanation": "It is not visible without magnification; astronauts confirmed this in 2003.",
+"category": "Geography"
+},
+{
+"id": 22,
+"title": "Paper Can't Be Folded More Than 7 Times",
+"originalTeaching": "It is impossible to fold a piece of paper in half more than seven times.",
+"yearTaught": "Unknown-2002",
+"yearDisproven": 2002,
+"explanation": "Britney Gallivan folded paper 12 times in 2002 using a large sheet.",
+"category": "Mathematics"
+},
+{
+"id": 23,
+"title": "Bats Are Blind",
+"originalTeaching": "Bats are completely blind and rely solely on echolocation.",
+"yearTaught": "Ancient-1900",
+"yearDisproven": 1900,
+"explanation": "All bats have vision; some have excellent eyesight for low light.",
+"category": "Biology"
+},
+{
+"id": 24,
+"title": "Bulls Are Enraged by Red",
+"originalTeaching": "Bulls become angry and charge when they see the color red.",
+"yearTaught": "Unknown-2007",
+"yearDisproven": 2007,
+"explanation": "Bulls are colorblind to red and react to movement; confirmed by MythBusters in 2007.",
+"category": "Biology"
+},
+{
+"id": 25,
+"title": "Going Out with Wet Hair Causes Colds",
+"originalTeaching": "Exposing yourself to cold with wet hair will make you catch a cold.",
+"yearTaught": "Unknown-1990",
+"yearDisproven": 1990,
+"explanation": "Colds are caused by viruses, not temperature or wet hair.",
+"category": "Health"
+},
+{
+"id": 26,
+"title": "Cracking Knuckles Causes Arthritis",
+"originalTeaching": "Habitually cracking your knuckles will lead to arthritis.",
+"yearTaught": "Unknown-2011",
+"yearDisproven": 2011,
+"explanation": "A 2011 study found no link between knuckle cracking and arthritis.",
+"category": "Health"
+},
+{
+"id": 27,
+"title": "The 5-Second Rule for Dropped Food",
+"originalTeaching": "Food is safe to eat if picked up within 5 seconds of dropping.",
+"yearTaught": "Unknown-2016",
+"yearDisproven": 2016,
+"explanation": "Bacteria transfer instantly; a 2016 Rutgers study debunked it.",
+"category": "Health"
+},
+{
+"id": 28,
+"title": "The Food Pyramid is the Best Nutrition Guide",
+"originalTeaching": "The USDA Food Pyramid accurately represents healthy eating proportions.",
+"yearTaught": "1992-2011",
+"yearDisproven": 2011,
+"explanation": "Replaced by MyPlate in 2011 for a simpler, more accurate representation.",
+"category": "Nutrition"
+},
+{
+"id": 29,
+"title": "Scientists Predicted Global Cooling in the 1970s",
+"originalTeaching": "In the 1970s, the scientific consensus was for global cooling and an ice age.",
+"yearTaught": "1970-Present",
+"yearDisproven": 2008,
+"explanation": "A 2008 study showed it was a myth; most papers predicted warming.",
+"category": "Environment"
+},
+{
+"id": 30,
+"title": "Junk DNA Has No Function",
+"originalTeaching": "Non-coding DNA is useless 'junk' without purpose.",
+"yearTaught": "1972-2012",
+"yearDisproven": 2012,
+"explanation": "The ENCODE project in 2012 revealed functions in regulatory roles.",
+"category": "Genetics"
+},
+{
+"id": 31,
+"title": "There Is a Dark Side of the Moon",
+"originalTeaching": "The far side of the Moon is perpetually dark and never sees sunlight.",
+"yearTaught": "Ancient-1959",
+"yearDisproven": 1959,
+"explanation": "The Luna 3 spacecraft in 1959 photographed the far side, showing it receives sunlight.",
+"category": "Astronomy"
+},
+{
+"id": 32,
+"title": "Sugar Makes Kids Hyperactive",
+"originalTeaching": "Consuming sugar causes hyperactivity in children.",
+"yearTaught": "1970-1994",
+"yearDisproven": 1994,
+"explanation": "A 1994 study in the Journal of Abnormal Child Psychology found no link; it's a myth.",
+"category": "Health"
+},
+{
+"id": 33,
+"title": "Goldfish Have Short Memory",
+"originalTeaching": "Goldfish have a memory span of only a few seconds.",
+"yearTaught": "1950s-Present",
+"yearDisproven": 2003,
+"explanation": "Experiments have shown that goldfish can remember tasks for months, debunking the myth of their short memory.",
+"category": "Biology"
+},
+{
+"id": 34,
+"title": "Shaving Makes Hair Thicker",
+"originalTeaching": "Shaving hair makes it grow back thicker, coarser, or darker.",
+"yearTaught": "Ancient-Present",
+"yearDisproven": 1928,
+"explanation": "A clinical study in 1928 showed that shaving does not affect hair growth rate, thickness, or color; it only appears thicker due to blunt tips.",
+"category": "Biology"
+},
+{
+"id": 35,
+"title": "Carrots Improve Vision",
+"originalTeaching": "Eating carrots significantly improves eyesight, especially night vision.",
+"yearTaught": "1940s-Present",
+"yearDisproven": 1940,
+"explanation": "This myth originated from WWII British propaganda to hide radar technology; while vitamin A in carrots aids eye health, it doesn't enhance vision beyond normal levels.",
+"category": "Nutrition"
+},
+{
+"id": 36,
+"title": "Lightning Never Strikes Twice",
+"originalTeaching": "Lightning never strikes the same place twice.",
+"yearTaught": "Ancient-Present",
+"yearDisproven": 1752,
+"explanation": "Lightning can and does strike the same location multiple times, as observed with tall structures like the Empire State Building being hit dozens of times a year.",
+"category": "Meteorology"
+},
+{
+"id": 37,
+"title": "Reading in Dim Light Ruins Eyes",
+"originalTeaching": "Reading in low light permanently damages eyesight.",
+"yearTaught": "1900s-Present",
+"yearDisproven": 1950,
+"explanation": "It may cause temporary eye strain, but no permanent damage; ophthalmologists confirm it doesn't affect long-term vision.",
+"category": "Health"
+},
+{
+"id": 38,
+"title": "Einstein Failed Math",
+"originalTeaching": "Albert Einstein failed mathematics in school.",
+"yearTaught": "1920s-Present",
+"yearDisproven": 1935,
+"explanation": "Einstein excelled in math; the myth likely arose from him failing a university entrance exam at 16, but he was advanced for his age.",
+"category": "History"
+},
+{
+"id": 39,
+"title": "Vikings Wore Horned Helmets",
+"originalTeaching": "Viking warriors wore helmets with horns.",
+"yearTaught": "1800s-Present",
+"yearDisproven": 1890,
+"explanation": "No archaeological evidence supports this; the image comes from 19th-century opera costumes and romanticized art.",
+"category": "History"
+},
+{
+"id": 40,
+"title": "Dogs and Cats Are Colorblind",
+"originalTeaching": "Dogs and cats cannot see colors.",
+"yearTaught": "1900s-Present",
+"yearDisproven": 1989,
+"explanation": "They see in shades of blue and green; their color vision is limited but not absent, as shown by behavioral studies.",
+"category": "Biology"
+},
+{
+"id": 41,
+"title": "Lemmings Commit Mass Suicide",
+"originalTeaching": "Lemmings jump off cliffs in mass suicide during migrations.",
+"yearTaught": "1950s-Present",
+"yearDisproven": 1958,
+"explanation": "This myth was staged in a 1958 Disney documentary; lemmings may drown accidentally but don't intentionally suicide.",
+"category": "Biology"
+},
+{
+"id": 42,
+"title": "Sharks Don't Get Cancer",
+"originalTeaching": "Sharks are immune to cancer.",
+"yearTaught": "1990s-Present",
+"yearDisproven": 2013,
+"explanation": "Tumors have been found in multiple shark species, debunking the claim used to promote shark cartilage supplements.",
+"category": "Biology"
+},
+{
+"id": 43,
+"title": "Ostriches Bury Heads in Sand",
+"originalTeaching": "Ostriches bury their heads in sand when frightened.",
+"yearTaught": "Ancient-Present",
+"yearDisproven": 1940,
+"explanation": "They lower their heads to the ground to blend in or flip eggs; the myth comes from Pliny the Elder.",
+"category": "Biology"
+},
+{
+"id": 44,
+"title": "Warts from Toads",
+"originalTeaching": "Handling toads or frogs causes warts.",
+"yearTaught": "Ancient-Present",
+"yearDisproven": 1920,
+"explanation": "Warts are caused by human papillomavirus, not amphibians; the bumpy skin of toads led to the association.",
+"category": "Health"
+},
+{
+"id": 45,
+"title": "Sharks Smell Blood Miles Away",
+"originalTeaching": "Sharks can detect a drop of blood from miles away.",
+"yearTaught": "1970s-Present",
+"yearDisproven": 2000,
+"explanation": "They can detect blood at 1 part per million, but typically from hundreds of meters, not miles, depending on currents.",
+"category": "Biology"
+},
+{
+"id": 46,
+"title": "Giraffes Sleep 30 Minutes a Day",
+"originalTeaching": "Giraffes only sleep for about 30 minutes per day.",
+"yearTaught": "1900s-Present",
+"yearDisproven": 2010,
+"explanation": "Studies show they sleep around 4-5 hours in short bursts, similar to other large herbivores.",
+"category": "Biology"
+},
+{
+"id": 47,
+"title": "Sharks Die If They Stop Swimming",
+"originalTeaching": "All sharks must swim constantly or they die.",
+"yearTaught": "1900s-Present",
+"yearDisproven": 1960,
+"explanation": "Many sharks can pump water over gills while stationary; only some species need constant motion.",
+"category": "Biology"
+},
+{
+"id": 48,
+"title": "Poinsettias Are Deadly Poisonous",
+"originalTeaching": "Poinsettia plants are highly toxic and can be fatal if ingested.",
+"yearTaught": "1910s-Present",
+"yearDisproven": 1971,
+"explanation": "They may cause mild irritation but are not lethal; a study showed no toxicity even in large amounts.",
+"category": "Botany"
+},
+{
+"id": 49,
+"title": "HIV From Sex With Monkeys",
+"originalTeaching": "HIV originated from humans having sex with monkeys.",
+"yearTaught": "1980s-Present",
+"yearDisproven": 1990,
+"explanation": "It likely transferred through bushmeat hunting and blood contact, not sexual activity.",
+"category": "Health"
+},
+{
+"id": 50,
+"title": "Humans Evolved From Chimpanzees",
+"originalTeaching": "Modern humans directly evolved from chimpanzees.",
+"yearTaught": "1850s-Present",
+"yearDisproven": 1871,
+"explanation": "Both share a common ancestor from 6-8 million years ago; chimps and humans evolved separately.",
+"category": "Evolution"
+},
+{
+"id": 51,
+"title": "Penny From Skyscraper Kills",
+"originalTeaching": "A penny dropped from the Empire State Building can kill someone below.",
+"yearTaught": "1930s-Present",
+"yearDisproven": 2000,
+"explanation": "Terminal velocity is too low (about 50 mph) to be lethal; it might sting but not kill.",
+"category": "Physics"
+},
+{
+"id": 52,
+"title": "Moon Gravity Causes Tides",
+"originalTeaching": "Tides are caused solely by the moon pulling on Earth's water.",
+"yearTaught": "Ancient-Present",
+"yearDisproven": 1687,
+"explanation": "Tides result from gravitational differences across Earth due to moon and sun; it's a differential force.",
+"category": "Astronomy"
+},
+{
+"id": 53,
+"title": "Earth Is Perfect Sphere",
+"originalTeaching": "The Earth is a perfect sphere.",
+"yearTaught": "Ancient-1700s",
+"yearDisproven": 1738,
+"explanation": "It's an oblate spheroid, flattened at poles and bulging at equator due to rotation.",
+"category": "Geography"
+},
+{
+"id": 54,
+"title": "Mount Everest Tallest Mountain",
+"originalTeaching": "Mount Everest is the tallest mountain on Earth.",
+"yearTaught": "1850s-Present",
+"yearDisproven": 1990,
+"explanation": "From base to peak, Mauna Kea is taller (over 33,000 ft vs. Everest's 29,000 ft), though Everest is highest above sea level.",
+"category": "Geography"
+},
+{
+"id": 55,
+"title": "Water Conducts Electricity",
+"originalTeaching": "Pure water is a good conductor of electricity.",
+"yearTaught": "1900s-Present",
+"yearDisproven": 1800,
+"explanation": "Pure water is a poor conductor; impurities like salts make it conductive.",
+"category": "Chemistry"
+},
+{
+"id": 56,
+"title": "Global Warming Pause",
+"originalTeaching": "Global warming paused in the early 2000s.",
+"yearTaught": "2000s-2010s",
+"yearDisproven": 2015,
+"explanation": "Surface temperatures seemed stable, but oceans absorbed most heat; adjusted data shows no pause.",
+"category": "Environment"
+},
+{
+"id": 57,
+"title": "Sahara Largest Desert",
+"originalTeaching": "The Sahara is the world's largest desert.",
+"yearTaught": "Ancient-Present",
+"yearDisproven": 1900,
+"explanation": "Antarctica is larger (5.4 million sq mi vs. 3.6 million) and fits the desert definition of low precipitation.",
+"category": "Geography"
+},
+{
+"id": 58,
+"title": "Diamonds From Coal",
+"originalTeaching": "Diamonds are formed from compressed coal.",
+"yearTaught": "1800s-Present",
+"yearDisproven": 1950,
+"explanation": "Diamonds form from carbon deep in the mantle, predating most coal; coal rarely subducts deep enough.",
+"category": "Geology"
+},
+{
+"id": 59,
+"title": "Middle Ages Flat Earth",
+"originalTeaching": "People in the Middle Ages believed the Earth was flat.",
+"yearTaught": "1800s-Present",
+"yearDisproven": 1920,
+"explanation": "Most scholars since ancient Greeks knew it was round; the myth was popularized in 19th-century writings.",
+"category": "History"
+},
+{
+"id": 60,
+"title": "Summer Closer to Sun",
+"originalTeaching": "Summer occurs when Earth is closer to the sun.",
+"yearTaught": "Ancient-Present",
+"yearDisproven": 1543,
+"explanation": "Seasons are due to Earth's tilt; Northern summer happens when farther from sun but tilted toward it.",
+"category": "Astronomy"
+},
+{
+"id": 61,
+"title": "Batteries in Fridge Last Longer",
+"originalTeaching": "Storing batteries in the refrigerator prolongs their life.",
+"yearTaught": "1950s-Present",
+"yearDisproven": 2000,
+"explanation": "Cold can cause condensation and damage; room temperature is best for modern batteries.",
+"category": "Technology"
+},
+{
+"id": 62,
+"title": "Humans and Dinosaurs Coexisted",
+"originalTeaching": "Humans lived alongside dinosaurs.",
+"yearTaught": "1800s-Present",
+"yearDisproven": 1840,
+"explanation": "Dinosaurs went extinct 66 million years ago; humans appeared about 300,000 years ago.",
+"category": "Paleontology"
+},
+{
+"id": 63,
+"title": "Eating Turkey Makes You Sleepy",
+"originalTeaching": "Turkey causes drowsiness due to high tryptophan.",
+"yearTaught": "1970s-Present",
+"yearDisproven": 1980,
+"explanation": "Tryptophan levels are similar to other meats; post-meal sleepiness is from overeating carbs and fats.",
+"category": "Nutrition"
+},
+{
+"id": 64,
+"title": "Flu Shots Give You Flu",
+"originalTeaching": "Flu vaccines can cause the flu.",
+"yearTaught": "1930s-Present",
+"yearDisproven": 1940,
+"explanation": "Vaccines use inactivated virus or proteins; mild symptoms are immune response, not infection.",
+"category": "Health"
+},
+{
+"id": 65,
+"title": "Big Bang Was an Explosion",
+"originalTeaching": "The Big Bang was a massive explosion creating the universe.",
+"yearTaught": "1940s-Present",
+"yearDisproven": 1950,
+"explanation": "It was rapid expansion of space itself, not an explosion in preexisting space.",
+"category": "Astronomy"
+},
+{
+"id": 66,
+"title": "Milk Builds Strong Bones",
+"originalTeaching": "Drinking milk ensures strong bones and prevents fractures.",
+"yearTaught": "1920s-Present",
+"yearDisproven": 2010,
+"explanation": "Studies show no reduction in fracture risk; high dairy may increase bone loss due to acidity.",
+"category": "Nutrition"
+},
+{
+"id": 67,
+"title": "No Gravity in Space",
+"originalTeaching": "There is no gravity in outer space.",
+"yearTaught": "1950s-Present",
+"yearDisproven": 1687,
+"explanation": "Gravity is everywhere; astronauts experience microgravity in orbit, falling around Earth.",
+"category": "Physics"
+}
+]
